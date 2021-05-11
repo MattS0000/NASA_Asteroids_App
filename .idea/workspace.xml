@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaFXAPP" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d490edac-877a-4014-a14e-5e2218b41fa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1lQH7kASfWWtOixsWGqzODj7D4Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javafx-sdk-16/lib/javafx.web.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Java16">
+    <configuration name="11_08costam" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../jdk-11.0.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.mini.zpoif.project.Main" />
+      <module name="application_mod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="15jdk" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.mini.zpoif.project.Main" />
+      <module name="application_mod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java16" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../jdk-16.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.mini.zpoif.project.Main" />
+      <module name="application_mod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-11.0.10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.mini.zpoif.project.Main" />
+      <module name="application_mod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.mini.zpoif.project.Main" />
+      <module name="application_mod" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PROJECT_DIR$/../../javafx-sdk-15.0.1/lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pw.mini.zpoif.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pw.mini.zpoif.project.Main" />
+      <module name="application_mod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetLastWeekDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application_mod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java" />
+      <option name="MAIN_CLASS_NAME" value="test.java.TestGetLastWeekDate" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Java16" />
+      <item itemvalue="Application.15jdk" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.11_08costam" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="JUnit.TestGetLastWeekDate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="JUnit.TestGetLastWeekDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d490edac-877a-4014-a14e-5e2218b41fa5" name="Default Changelist" comment="" />
+      <created>1607522229306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607522229306</updated>
+      <workItem from="1607522230361" duration="2010000" />
+      <workItem from="1607524254041" duration="12000" />
+      <workItem from="1607524270020" duration="40000" />
+      <workItem from="1608041920378" duration="688000" />
+      <workItem from="1608054614947" duration="5784000" />
+      <workItem from="1608127965680" duration="513000" />
+      <workItem from="1608143676637" duration="1667000" />
+      <workItem from="1608192774300" duration="1718000" />
+      <workItem from="1608195117687" duration="425000" />
+      <workItem from="1608196663601" duration="737000" />
+      <workItem from="1608203524330" duration="7000" />
+      <workItem from="1608221402162" duration="4075000" />
+      <workItem from="1608227068082" duration="231000" />
+      <workItem from="1608296689736" duration="87000" />
+      <workItem from="1608306037521" duration="12000" />
+      <workItem from="1608306092882" duration="17000" />
+      <workItem from="1608306143156" duration="262000" />
+      <workItem from="1608307317425" duration="12000" />
+      <workItem from="1608462554737" duration="71000" />
+      <workItem from="1608463406383" duration="232000" />
+      <workItem from="1608495873997" duration="325000" />
+      <workItem from="1608554683714" duration="389000" />
+      <workItem from="1608648570089" duration="226000" />
+      <workItem from="1608653041531" duration="382000" />
+      <workItem from="1608880035557" duration="2788000" />
+      <workItem from="1608902576375" duration="916000" />
+      <workItem from="1608911260452" duration="62000" />
+      <workItem from="1608974721852" duration="3126000" />
+      <workItem from="1609766871465" duration="6804000" />
+      <workItem from="1609781649317" duration="134000" />
+      <workItem from="1609845435285" duration="3517000" />
+      <workItem from="1609872307954" duration="479000" />
+      <workItem from="1610027912097" duration="1771000" />
+      <workItem from="1610385608203" duration="194000" />
+      <workItem from="1610546303724" duration="1818000" />
+      <workItem from="1610558992072" duration="1157000" />
+      <workItem from="1610643121700" duration="5631000" />
+      <workItem from="1610649809236" duration="551000" />
+      <workItem from="1610651080154" duration="1016000" />
+      <workItem from="1610654968081" duration="890000" />
+      <workItem from="1610657213680" duration="563000" />
+      <workItem from="1610659538059" duration="37000" />
+      <workItem from="1611136896491" duration="811000" />
+      <workItem from="1611137728631" duration="378000" />
+      <workItem from="1611138120747" duration="2081000" />
+      <workItem from="1611334682047" duration="1712000" />
+      <workItem from="1611342007057" duration="1823000" />
+      <workItem from="1611490368063" duration="4550000" />
+      <workItem from="1611501197011" duration="3476000" />
+      <workItem from="1611511237269" duration="4546000" />
+      <workItem from="1611564667288" duration="1491000" />
+      <workItem from="1611577198719" duration="2333000" />
+      <workItem from="1611582770069" duration="1858000" />
+      <workItem from="1611591595122" duration="25000" />
+      <workItem from="1611594088000" duration="553000" />
+      <workItem from="1611599113274" duration="555000" />
+      <workItem from="1611599896119" duration="2583000" />
+      <workItem from="1611604738628" duration="146000" />
+      <workItem from="1611608157192" duration="260000" />
+      <workItem from="1611653031920" duration="912000" />
+      <workItem from="1611663461891" duration="4736000" />
+      <workItem from="1611683251225" duration="1283000" />
+      <workItem from="1611733850023" duration="5582000" />
+      <workItem from="1611742263240" duration="6274000" />
+      <workItem from="1611749140476" duration="2164000" />
+      <workItem from="1611761819848" duration="97000" />
+      <workItem from="1611767497138" duration="1016000" />
+      <workItem from="1611773332979" duration="1262000" />
+      <workItem from="1612211612909" duration="306000" />
+      <workItem from="1612878759185" duration="3032000" />
+      <workItem from="1612959230716" duration="12000" />
+      <workItem from="1620542271544" duration="1495000" />
+      <workItem from="1620733034319" duration="1116000" />
+      <workItem from="1620742391158" duration="1548000" />
+    </task>
+    <task id="LOCAL-00001" summary="Testing working on Git together">
+      <created>1607522739957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607522739957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Testing working on Git together part2">
+      <created>1607523194994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607523194994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testing working on Git together part2">
+      <created>1607523453535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607523453535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Testing working on Git together part3">
+      <created>1607523770673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607523770673</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload version 1 of Api requests.">
+      <created>1608042505575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608042505575</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Upload reading json to java class">
+      <created>1608059466233</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608059466233</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Upload reading json to java class">
+      <created>1608060312363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608060312363</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Formating of code">
+      <created>1608193046139</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608193046139</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding &quot;getOrbitinBodies&quot; to Asteroid and cleaning pointless setters">
+      <created>1608222469868</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608222469868</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Formatting">
+      <created>1608225501335</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608225501335</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Refactoring code">
+      <created>1608227233103</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608227233103</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Refactoring code">
+      <created>1608886689562</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608886689562</updated>
+    </task>
+    <task id="LOCAL-00013" summary="More refactoring">
+      <created>1608903492810</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608903492810</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding AsteroidByDates filters">
+      <created>1608977849292</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608977849292</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added sorting methods">
+      <created>1609775361552</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609775361552</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding clearer Api handling, geting future approach and some code clean up">
+      <created>1609848957562</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609848957562</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commenting functionalities">
+      <created>1610028688160</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610028688160</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Changes to Main for functionality presentation">
+      <created>1610547437029</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1610547437029</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Rearranging code">
+      <created>1610648908349</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1610648908349</updated>
+    </task>
+    <task id="LOCAL-00020" summary="adding gitignore">
+      <created>1610650050351</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1610650050351</updated>
+    </task>
+    <task id="LOCAL-00021" summary="correct gitignore">
+      <created>1610650169666</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610650169666</updated>
+    </task>
+    <task id="LOCAL-00022" summary="By Date getter is now able to get more than one week">
+      <created>1611140210907</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611140210907</updated>
+    </task>
+    <task id="LOCAL-00023" summary="By Date getter is now able to get more than one week">
+      <created>1611336382085</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611336382085</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Cleaning code">
+      <created>1611343286990</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611343286990</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Reparing Warnings in Menu">
+      <created>1611742549770</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1611742549770</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Menu fxml correction">
+      <created>1611745337134</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1611745337134</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Cleaning code">
+      <created>1611746581445</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611746581445</updated>
+    </task>
+    <task id="LOCAL-00028" summary="More Cleaning code">
+      <created>1611747711363</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1611747711363</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Cleaning Code">
+      <created>1611768346661</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611768346661</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing working on Git together" />
+    <MESSAGE value="Testing working on Git together part2" />
+    <MESSAGE value="Testing working on Git together part3" />
+    <MESSAGE value="Upload version 1 of Api requests." />
+    <MESSAGE value="Upload reading json to java class" />
+    <MESSAGE value="Formating of code" />
+    <MESSAGE value="Adding &quot;getOrbitinBodies&quot; to Asteroid and cleaning pointless setters" />
+    <MESSAGE value="Formatting" />
+    <MESSAGE value="Refactoring code" />
+    <MESSAGE value="More refactoring" />
+    <MESSAGE value="Adding AsteroidByDates filters" />
+    <MESSAGE value="Added sorting methods" />
+    <MESSAGE value="Adding clearer Api handling, geting future approach and some code clean up" />
+    <MESSAGE value="Commenting functionalities" />
+    <MESSAGE value="Changes to Main for functionality presentation" />
+    <MESSAGE value="Rearranging code" />
+    <MESSAGE value="adding gitignore" />
+    <MESSAGE value="correct gitignore" />
+    <MESSAGE value="By Date getter is now able to get more than one week" />
+    <MESSAGE value="Reparing Warnings in Menu" />
+    <MESSAGE value="Menu fxml correction" />
+    <MESSAGE value="Cleaning code" />
+    <MESSAGE value="More Cleaning code" />
+    <MESSAGE value="Cleaning Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning Code" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
