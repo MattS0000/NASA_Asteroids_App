@@ -37,8 +37,6 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/https://github.com/MattS0000/NASA_Asteroids_App
    
 2. Add dependencies: gson-2.8.6 and JavaFX 15
-  
-3. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
