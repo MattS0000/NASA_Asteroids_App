@@ -41,17 +41,21 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-TODO
+### Main Page
 
-### First Page
+After launching the app we can explore automatically loaded data, or insert two dates between which we want to explore the data. Date selection is confirmed by the 'Accept Date' button. Then one can choose a specific Asteroid and download it's specific data using the 'Download' button. To go to the other page, click 'Sorts and Filters' button.
 
-TODO
+![](Examples_photos/FirstPage.png)
 
+### Sorts and Filters Page
+Here we can sort and filter data downloaded in the previous page. Eg. to learn more about the fastest asteroid in the period, we choose: 'Descending' and 'Sort by Velocity', then choose the top asteroid and click 'Download Asteroid Data' button.
+
+![](Examples_photos/SecondPage.png)
 
 <!-- CONTACT -->
 ## Contact
 
-Szymon Rećko - [GitHub](https://github.com/)
+Szymon Rećko - [GitHub](https://github.com/Szymon164)
 
 Mateusz Sperkowski - [GitHub](https://github.com/MattS0000)
 
